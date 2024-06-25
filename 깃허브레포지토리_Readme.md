@@ -22,4 +22,5 @@ convolutional neural networks." Advances in neural information processing
 
 systems 25 (2012).
 
-느낀 점 : MNIST에서 0-9 이미지 학습 성능은 CNN에서 잘 나왔으나, transform 방법에 따른 성능 감소기법을 리포트 하고 싶었음.
+느낀 점 : MNIST에서 0-9 이미지 학습 성능은 CNN에서 잘 나왔으나, 
+transform 방법에 따른 성능 감소기법을 리포트 하고 싶었음.
