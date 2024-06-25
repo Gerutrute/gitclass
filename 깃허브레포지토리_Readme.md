@@ -15,7 +15,11 @@
 ![architecture](https://github.com/Gerutrute/gitclass/assets/96192262/318dbb23-604e-4910-80ea-b325183cf18a)
 
 참고 자료 : Krizhevsky, Alex, Ilya
+
 Sutskever, and Geoffrey E. Hinton. "Imagenet classification with deep
+
 convolutional neural networks." Advances in neural information processing
+
 systems 25 (2012).
+
 느낀 점 : MNIST에서 0-9 이미지 학습 성능은 CNN에서 잘 나왔으나, transform 방법에 따른 성능 감소기법을 리포트 하고 싶었음.
