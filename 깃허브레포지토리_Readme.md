@@ -1,12 +1,13 @@
- 프로젝트 수행은 2023년 1월부터 2월부터 알파코 딥러닝 부트캠프에서 진행했다.
-웹과 딥러닝 두 부분을 진행했으며, 웹 부분은 플라스크를 사용했다, 
-딥러닝은 CNN을 사용하였으며, 데이터는 0~9의 숫자 이미지로 이루어진
-MNIST train 6만장 test 3만장으로 사용하였다. 결과 이미지는 output.jpg처럼 나왔고,
-전체 설계도는 architecture.jpg로 만들었다. 참고는 Krizhevsky, Alex, Ilya
+프로젝트 기간 : 2023년 1월 ~ 2월
+프로젝트 장소 : 알파코 딥러닝 부트캠프
+프로젝트 수행방법 : 웹(플라스크) / 딥러닝(CNN)
+데이터 구성 : MNIST(0~9 숫자 이미지) - train 6만장 / test 3만장
+결과 이미지 :
+![output](https://github.com/Gerutrute/gitclass/assets/96192262/6c77b9b5-0d46-491d-997e-013e47f440ed)
+전체 설계도 : 
+![architecture](https://github.com/Gerutrute/gitclass/assets/96192262/318dbb23-604e-4910-80ea-b325183cf18a)
+참고 자료 : Krizhevsky, Alex, Ilya
 Sutskever, and Geoffrey E. Hinton. "Imagenet classification with deep
 convolutional neural networks." Advances in neural information processing
-systems 25 (2012). 을 하였고, 느낌점은, CNN으로는 0~9 이미지의 학습 성능이
-잘 나왔지만 transform을 어떻게 주냐에 따라서 성능을 감소시키는 기법들이 뭐인지
-리포트하고 싶었다.
-![output](https://github.com/Gerutrute/gitclass/assets/96192262/6c77b9b5-0d46-491d-997e-013e47f440ed)
-![architecture](https://github.com/Gerutrute/gitclass/assets/96192262/318dbb23-604e-4910-80ea-b325183cf18a)
+systems 25 (2012).
+느낀 점 : MNIST에서 0~9 이미지 학습 성능은 CNN에서 잘 나왔으나, transform 방법에 따른 성능 감소기법을 리포트 하고 싶었음.
