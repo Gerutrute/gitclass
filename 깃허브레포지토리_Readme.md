@@ -8,3 +8,5 @@ convolutional neural networks." Advances in neural information processing
 systems 25 (2012). 을 하였고, 느낌점은, CNN으로는 0~9 이미지의 학습 성능이
 잘 나왔지만 transform을 어떻게 주냐에 따라서 성능을 감소시키는 기법들이 뭐인지
 리포트하고 싶었다.
+![output](https://github.com/Gerutrute/gitclass/assets/96192262/6c77b9b5-0d46-491d-997e-013e47f440ed)
+![architecture](https://github.com/Gerutrute/gitclass/assets/96192262/318dbb23-604e-4910-80ea-b325183cf18a)
